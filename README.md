@@ -51,7 +51,7 @@ npm start
 
 ### 5. Use the App
 
-Go to `http://localhost:5173` in your browser. Enter health data and get your heart disease risk prediction!
+Go to `http://localhost:3000` in your browser. Enter health data and get your heart disease risk prediction!
 
 ## Environment Setup
 
