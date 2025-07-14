@@ -46,7 +46,7 @@ python app.py
 **Terminal 2 - Frontend:**
 ```bash
 cd frontend
-npm run dev
+npm start
 ```
 
 ### 5. Use the App
